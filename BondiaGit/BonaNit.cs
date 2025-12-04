@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BondiaGit
+﻿namespace BondiaGit
 {
     public class BonaNit
     {
         public void Saludar()
         {
-            Console.WriteLine("Bona nit");
+            Console.WriteLine("Bona nit! Dorm bé i somia fort!");
         }
     }
 }
