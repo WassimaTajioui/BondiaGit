@@ -10,7 +10,7 @@ namespace BondiaGit
     {
         public void Saludar()
         {
-            Console.WriteLine("Bona nit");
+            Console.WriteLine("Bona nit!");
         }
     }
 }
